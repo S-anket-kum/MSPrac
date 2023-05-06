@@ -1,0 +1,2 @@
+# MSPrac
+ MVC Core Application
